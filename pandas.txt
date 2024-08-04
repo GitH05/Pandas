@@ -1,0 +1,15 @@
+python library.
+-oen source
+-use for data manipulation and analysis tool
+-represent tabular format
+
+Two primary data structure:
+1.series: one Dimensional labeled array.
+2.DataFrame: two dimensional labeled array
+
+CSV(comma separated Values): plain text file, store tabular data.
+commonly used format.
+
+History: created by Wes McKinney 2008(released)
+-need of flexible and efficient tool
+
